@@ -1,0 +1,14 @@
+[deps]
+Test20261019075102 = "6f11a7dc-e95d-4d6f-bbec-4c7b237a0266"
+Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
+ExplicitImports = "7d51a73a-1435-4ff3-83d9-f097790105c7"
+JET = "c3a54625-cd67-489e-a8e7-0a5a0ff4e31b"
+Runic = "62bfec6d-59d7-401d-8490-b29ee721c001"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Aqua = "0.8"
+ExplicitImports = "1.13"
+JET = "0.9, 0.10, 0.11, 0.12"
+Runic = "1"
+Test = "1"

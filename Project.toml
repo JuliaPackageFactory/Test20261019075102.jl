@@ -1,0 +1,10 @@
+name = "Test20261019075102"
+uuid = "6f11a7dc-e95d-4d6f-bbec-4c7b237a0266"
+authors = ["PkgFactory integration test"]
+version = "0.0.1"
+
+[compat]
+julia = "1.12"
+
+[workspace]
+projects = ["test"]
